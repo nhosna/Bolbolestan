@@ -1,4 +1,7 @@
 # Bolbolestan
+<p align="center">
+  <img src="https://github.com/MoodyMelon/Bolbolestan/blob/main/icon.png" />
+</p>
 
 ## Screenshots
 
